@@ -27,7 +27,7 @@ Sample of Raw OD Data*: 1104 zones
 
 <img width="556" alt="image" src="https://user-images.githubusercontent.com/46463367/167269979-1944c6d8-a56e-439c-8179-49aa0d51cdee.png">
 
-# Convert StreetLight wide format of OD matrix to traffic simulation input format
+# Convert StreetLight wide format of OD matrix to traffic simulation input format (Demand_INput.py file)
 Step 1: Raw OD Table Cleaning (Figure 1)
 - Keep weekday (Mon-Thu)) OD traffic
 - Complete OD data in order to make Zone ID continuous. Missing data are given NAs.
