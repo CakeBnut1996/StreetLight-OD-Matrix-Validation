@@ -1,6 +1,7 @@
 # Generate OD Demand from StreetLight Inside
 
 Step 1: Input your Taffic Analysis Zone shapefile
+
 ![image](https://user-images.githubusercontent.com/46463367/167269946-bcf576ba-c0ab-48f8-9bd8-12caa32e31a9.png)
 
 
@@ -24,7 +25,7 @@ Step 3: Set time and day to generate different scenarios. Here three scenarios a
 Sample of Raw OD Data*: 1104 zones
 *If the values for an OD pair for a specific time period (e.g. Early AM) are below StreetLight's significance threshold, no results will be shown in the CSV files.
 
-<img width="561" alt="image" src="https://user-images.githubusercontent.com/46463367/167269794-685e57e4-fae2-4a1d-916e-8b33465b8a02.png">
+<img width="556" alt="image" src="https://user-images.githubusercontent.com/46463367/167269979-1944c6d8-a56e-439c-8179-49aa0d51cdee.png">
 
 # Convert StreetLight wide format of OD matrix to traffic simulation input format
 Step 1: Raw OD Table Cleaning (Figure 1)
