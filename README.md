@@ -1,9 +1,10 @@
 # Generate OD Demand from StreetLight Inside
-1. Input your Taffic Analysis Zone shapefile
+
+Step 1: Input your Taffic Analysis Zone shapefile
 
 ![image](https://user-images.githubusercontent.com/46463367/167269684-1834220f-18fc-4c49-882e-fdcddc7f73ca.png)
 
-2. Set Calibration links
+Step 2: Set Calibration links
 
 StreetLight uses AADT estimates to scale the STL sample trip count to the estimated counts. 
 - Number of zones
@@ -12,7 +13,7 @@ StreetLight uses AADT estimates to scale the STL sample trip count to the estima
 
 ![image](https://user-images.githubusercontent.com/46463367/167269688-2b1dcb80-e8db-471c-bd6c-eeb2c7f18685.png)
 
-Set time and day to generate different scenarios. Here three scenarios are generated:
+Step 3: Set time and day to generate different scenarios. Here three scenarios are generated:
 - School: Mar, Apr; Sep, Oct. Spring recess was excluded
 - Snowbirds: Nov, Dec, Jan
 - Summer (School Break): June, Jul, Aug. Days after Aug.20 (school starts) were excluded.
