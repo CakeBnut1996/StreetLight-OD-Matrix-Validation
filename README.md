@@ -1,4 +1,4 @@
-# Generate OD Demand from StreetLight Inside
+# Generate OD Demand from StreetLight Platform
 
 Step 1: Input your Taffic Analysis Zone shapefile
 
