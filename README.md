@@ -1,8 +1,7 @@
 # Generate OD Demand from StreetLight Inside
 
 Step 1: Input your Taffic Analysis Zone shapefile
-
-![image](https://user-images.githubusercontent.com/46463367/167269684-1834220f-18fc-4c49-882e-fdcddc7f73ca.png)
+![image](https://user-images.githubusercontent.com/46463367/167269946-bcf576ba-c0ab-48f8-9bd8-12caa32e31a9.png)
 
 
 Step 2: Set Calibration links
